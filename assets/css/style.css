@@ -123,12 +123,16 @@ p {
 }
 
 .image {
-	width: 250px;
+	width: 280px;
 	float: left;
-	margin-left: 30px;
+	
 	position: relative;
 	overflow: auto;
-	
+	margin-bottom: 20px;
+}
+
+.image:nth-child(even) {
+	float: right;
 }
 
 .image img {
