@@ -6,7 +6,6 @@ This challenge was to create a basic portfolio web site using only HTML and CSS 
 ## Technologies Used
 * HTML
 * CSS
-* Media Queries
 
 ## Build With
 * Sublime Text - Text Editor
